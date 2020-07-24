@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.209 sec <<< FAILURE! - in runners.TestRunner
+initializationError(runners.TestRunner)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.core.exception.CucumberException: Couldn't load plugin class: com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter
+Caused by: java.lang.NoClassDefFoundError: cucumber/api/event/ConcurrentEventListener
+Caused by: java.lang.ClassNotFoundException: cucumber.api.event.ConcurrentEventListener
+

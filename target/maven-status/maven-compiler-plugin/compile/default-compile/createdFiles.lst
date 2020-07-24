@@ -1,0 +1,11 @@
+pages\GoogleSearchPage.class
+desktop\applications\Win7Calculator.class
+managers\WebDriverManager$1.class
+enums\BrowserType.class
+pages\BaseSelenium.class
+pages\SearchResultsPage.class
+managers\WiniumDriverManager.class
+enums\CalciKeys.class
+enums\DesktopApps.class
+managers\WebDriverManager.class
+dataProviders\PropertyFileReader.class

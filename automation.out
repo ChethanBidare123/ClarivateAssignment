@@ -1,0 +1,292 @@
+2020-07-23 23:40:33 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (ff4a806f695a41cf1747bbb0725fe78e)
+2020-07-23 23:40:33 INFO  BaseUtil:23 - Chrome Driver is opened
+2020-07-23 23:40:35 INFO  BaseUtil:29 - Navigated to google website
+2020-07-23 23:40:37 INFO  BaseUtil:36 - Searching for the Keyword : Clarivate Analytics
+2020-07-23 23:40:37 INFO  BaseUtil:43 - Verified the first Search Result : https://clarivate.com/
+2020-07-23 23:40:37 INFO  BaseUtil:28 - Property file is loaded
+2020-07-23 23:40:38 INFO  BaseUtil:28 - Property file is loaded
+2020-07-23 23:40:38 INFO  BaseUtil:28 - Property file is loaded
+2020-07-23 23:55:30 INFO  BaseUtil:39 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (cc54385f184ebf4c4657a36dfce5cad8)
+2020-07-23 23:55:30 INFO  BaseUtil:28 - Chrome Driver is opened
+2020-07-23 23:55:32 INFO  BaseUtil:34 - Navigated to google website
+2020-07-23 23:55:32 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (cc54385f184ebf4c4657a36dfce5cad8)] -> name: q]
+2020-07-23 23:55:34 INFO  BaseUtil:41 - Searching for the Keyword : Clarivate Analytics
+2020-07-23 23:55:34 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (cc54385f184ebf4c4657a36dfce5cad8)] -> id: hdtb-tls]
+2020-07-23 23:55:34 INFO  BaseUtil:48 - Verified the first Search Result : https://clarivate.com/
+2020-07-23 23:55:34 INFO  BaseUtil:29 - Property file is loaded
+2020-07-23 23:55:35 INFO  BaseUtil:29 - Property file is loaded
+2020-07-23 23:55:35 INFO  BaseUtil:29 - Property file is loaded
+2020-07-23 23:59:25 INFO  BaseUtil:40 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (7008ce4a9f30626a202982c5e3d46416)
+2020-07-23 23:59:25 INFO  BaseUtil:25 - Chrome Driver is opened
+2020-07-23 23:59:27 INFO  BaseUtil:31 - Navigated to google website
+2020-07-23 23:59:27 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (7008ce4a9f30626a202982c5e3d46416)] -> name: q]
+2020-07-23 23:59:29 INFO  BaseUtil:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-23 23:59:29 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (7008ce4a9f30626a202982c5e3d46416)] -> id: hdtb-tls]
+2020-07-23 23:59:29 INFO  BaseUtil:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-23 23:59:29 INFO  BaseUtil:29 - Property file is loaded
+2020-07-23 23:59:30 INFO  BaseUtil:29 - Property file is loaded
+2020-07-23 23:59:30 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:03:56 INFO  BaseUtil:40 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (ed17b88264fba37bef19ca86fe8ef538)
+2020-07-24 00:03:56 INFO  BaseUtil:25 - Chrome Driver is opened
+2020-07-24 00:03:57 INFO  BaseUtil:31 - Navigated to google website
+2020-07-24 00:03:57 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (ed17b88264fba37bef19ca86fe8ef538)] -> name: q]
+2020-07-24 00:03:59 INFO  BaseUtil:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:03:59 INFO  PropertyFileReader:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (ed17b88264fba37bef19ca86fe8ef538)] -> id: hdtb-tls]
+2020-07-24 00:04:39 INFO  BaseUtil:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:04:39 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:14:50 INFO  BaseUtil:40 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)
+2020-07-24 00:14:50 INFO  BaseUtil:25 - Chrome Driver is opened
+2020-07-24 00:14:53 INFO  BaseUtil:31 - Navigated to google website
+2020-07-24 00:14:53 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> name: q]
+2020-07-24 00:14:53 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> name: q]
+2020-07-24 00:14:53 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> name: q]
+2020-07-24 00:14:54 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> name: q]
+2020-07-24 00:14:55 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> name: q]
+2020-07-24 00:14:55 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 00:14:55 INFO  BaseUtil:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:14:55 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> id: hdtb-tls]
+2020-07-24 00:14:56 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (a89ce39236dbee40c90171019a91305a)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 00:14:56 INFO  BaseUtil:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:14:56 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:14:56 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:14:57 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:18:08 INFO  BaseUtil:40 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)
+2020-07-24 00:18:08 INFO  BaseUtil:25 - Chrome Driver is opened
+2020-07-24 00:18:10 INFO  BaseUtil:31 - Navigated to google website
+2020-07-24 00:18:10 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> name: q]
+2020-07-24 00:18:10 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> name: q]
+2020-07-24 00:18:10 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> name: q]
+2020-07-24 00:18:10 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> name: q]
+2020-07-24 00:18:12 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> name: q]
+2020-07-24 00:18:12 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 00:18:12 INFO  BaseUtil:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:18:12 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> id: hdtb-tls]
+2020-07-24 00:18:12 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (4f497a7a77000b70e68c8e5d4d2094fb)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 00:18:12 INFO  BaseUtil:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:18:12 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:18:13 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:18:13 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:34:22 INFO  BaseUtil:40 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)
+2020-07-24 00:34:22 INFO  BaseUtil:25 - Chrome Driver is opened
+2020-07-24 00:34:24 INFO  BaseUtil:31 - Navigated to google website
+2020-07-24 00:34:24 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> name: q]
+2020-07-24 00:34:24 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> name: q]
+2020-07-24 00:34:24 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> name: q]
+2020-07-24 00:34:24 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> name: q]
+2020-07-24 00:34:26 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> name: q]
+2020-07-24 00:34:26 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 00:34:26 INFO  BaseUtil:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:34:26 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> id: hdtb-tls]
+2020-07-24 00:34:26 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (4a97b7975018d90f37b6249651b20b5b)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 00:34:26 INFO  BaseUtil:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:34:26 INFO  BaseUtil:29 - Property file is loaded
+2020-07-24 00:49:49 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)
+2020-07-24 00:49:49 INFO  BrowserAutomationSteps:25 - Chrome Driver is opened
+2020-07-24 00:49:51 INFO  BrowserAutomationSteps:31 - Navigated to google website
+2020-07-24 00:49:51 INFO  BaseSelenium:34 - Checking element is displayed : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> name: q]
+2020-07-24 00:49:51 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> name: q]
+2020-07-24 00:49:51 INFO  BaseSelenium:45 - Clearing the field : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> name: q]
+2020-07-24 00:49:52 INFO  BaseSelenium:55 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> name: q]
+2020-07-24 00:49:53 INFO  BaseSelenium:55 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> name: q]
+2020-07-24 00:49:53 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 00:49:53 INFO  BrowserAutomationSteps:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:49:53 INFO  BaseSelenium:34 - Checking element is displayed : [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> id: hdtb-tls]
+2020-07-24 00:49:53 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (078a7705e3e4d4fbb9235bdb444be014)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 00:49:53 INFO  BrowserAutomationSteps:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:50:29 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)
+2020-07-24 00:50:29 INFO  BrowserAutomationSteps:25 - Chrome Driver is opened
+2020-07-24 00:50:31 INFO  BrowserAutomationSteps:31 - Navigated to google website
+2020-07-24 00:50:31 INFO  BaseSelenium:34 - Checking element is displayed : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> name: q]
+2020-07-24 00:50:31 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> name: q]
+2020-07-24 00:50:31 INFO  BaseSelenium:45 - Clearing the field : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> name: q]
+2020-07-24 00:50:31 INFO  BaseSelenium:55 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> name: q]
+2020-07-24 00:50:33 INFO  BaseSelenium:55 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> name: q]
+2020-07-24 00:50:33 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 00:50:33 INFO  BrowserAutomationSteps:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 00:50:33 INFO  BaseSelenium:34 - Checking element is displayed : [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> id: hdtb-tls]
+2020-07-24 00:50:33 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (0e40b6c04fdf3d55b4715ff9a2eaddb5)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 00:50:33 INFO  BrowserAutomationSteps:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 00:50:33 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 00:50:34 INFO  BrowserAutomationSteps:19 - Quiting Browser Driver
+2020-07-24 09:14:47 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (b6878574069abc00dd1c2e4658c31118)
+2020-07-24 09:14:47 INFO  BrowserAutomationSteps:25 - Chrome Driver is opened
+2020-07-24 09:14:47 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:14:47 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:15:52 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)
+2020-07-24 09:15:52 INFO  BrowserAutomationSteps:25 - Chrome Driver is opened
+2020-07-24 09:15:54 INFO  BrowserAutomationSteps:31 - Navigated to google website
+2020-07-24 09:15:54 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> name: q]
+2020-07-24 09:15:54 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> name: q]
+2020-07-24 09:15:54 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> name: q]
+2020-07-24 09:15:54 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> name: q]
+2020-07-24 09:15:56 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> name: q]
+2020-07-24 09:15:56 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:15:56 INFO  BrowserAutomationSteps:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:15:56 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> id: hdtb-tls]
+2020-07-24 09:15:56 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (072abe9ceaf827b91d0aa8db76f9bbe7)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:15:56 INFO  BrowserAutomationSteps:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:15:56 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:15:57 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:17:58 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)
+2020-07-24 09:17:58 INFO  BrowserAutomationSteps:25 - Chrome Driver is opened
+2020-07-24 09:17:59 INFO  BrowserAutomationSteps:31 - Navigated to google website
+2020-07-24 09:17:59 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> name: q]
+2020-07-24 09:18:00 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> name: q]
+2020-07-24 09:18:00 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> name: q]
+2020-07-24 09:18:00 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> name: q]
+2020-07-24 09:18:02 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> name: q]
+2020-07-24 09:18:02 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:18:02 INFO  BrowserAutomationSteps:38 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:18:02 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> id: hdtb-tls]
+2020-07-24 09:18:02 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (a787c13d53bae980faa9b08de618c06e)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:18:02 INFO  BrowserAutomationSteps:45 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:18:02 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:18:02 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:46:57 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)
+2020-07-24 09:46:57 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 09:46:58 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 09:46:58 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> name: q]
+2020-07-24 09:46:58 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> name: q]
+2020-07-24 09:46:58 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> name: q]
+2020-07-24 09:46:59 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> name: q]
+2020-07-24 09:47:00 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> name: q]
+2020-07-24 09:47:00 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:47:00 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:47:00 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> id: hdtb-tls]
+2020-07-24 09:47:00 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (a1ecd4501fb79b8135a438da9502e963)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:47:00 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:47:00 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:47:01 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:47:01 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:47:01 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 09:47:01 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:49:07 INFO  DesktopAutomationSteps:30 - Initialization Of Windows driver and calculator App is opened
+2020-07-24 09:49:36 INFO  Win7Calculator:35 - Clicks on the Button : num6Button
+2020-07-24 09:49:40 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:49:46 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:49:53 INFO  Win7Calculator:35 - Clicks on the Button : num7Button
+2020-07-24 09:50:01 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:50:05 INFO  Win7Calculator:48 - The input number entered on Calci : 65575
+2020-07-24 09:50:10 INFO  DesktopAutomationSteps:37 - Input Number : 65575
+2020-07-24 09:50:21 INFO  Win7Calculator:35 - Clicks on the Button : squareRootButton
+2020-07-24 09:50:23 INFO  DesktopAutomationSteps:43 - Button pressed : squareRootButton
+2020-07-24 09:50:31 INFO  Win7Calculator:58 - fetching the currently displayed number from calculator screen : null
+2020-07-24 09:50:31 INFO  BrowserAutomationSteps:30 - Quitting Winium Driver
+2020-07-24 09:51:09 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)
+2020-07-24 09:51:09 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 09:51:11 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 09:51:11 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> name: q]
+2020-07-24 09:51:11 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> name: q]
+2020-07-24 09:51:11 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> name: q]
+2020-07-24 09:51:11 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> name: q]
+2020-07-24 09:51:12 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> name: q]
+2020-07-24 09:51:12 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:51:12 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:51:12 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> id: hdtb-tls]
+2020-07-24 09:51:12 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (9702e04120e87b972a352e05b789c2ca)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:51:12 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:51:12 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:13 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:51:13 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:13 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 09:51:13 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:15 INFO  BrowserAutomationSteps:30 - Quitting Winium Driver
+2020-07-24 09:51:49 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)
+2020-07-24 09:51:49 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 09:51:50 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 09:51:50 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> name: q]
+2020-07-24 09:51:50 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> name: q]
+2020-07-24 09:51:50 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> name: q]
+2020-07-24 09:51:51 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> name: q]
+2020-07-24 09:51:52 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> name: q]
+2020-07-24 09:51:52 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:51:52 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:51:52 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> id: hdtb-tls]
+2020-07-24 09:51:52 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (5181ca6289c60a019c721bb8ccf85442)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:51:52 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:51:52 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:53 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:51:53 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:53 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 09:51:53 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:51:55 INFO  BrowserAutomationSteps:30 - Quitting Winium Driver
+2020-07-24 09:52:22 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)
+2020-07-24 09:52:22 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 09:52:23 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 09:52:24 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> name: q]
+2020-07-24 09:52:24 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> name: q]
+2020-07-24 09:52:24 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> name: q]
+2020-07-24 09:52:24 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> name: q]
+2020-07-24 09:52:25 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> name: q]
+2020-07-24 09:52:25 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 09:52:25 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 09:52:25 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> id: hdtb-tls]
+2020-07-24 09:52:25 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (149490e233f9f7aae0b1ebb5abdfc7b0)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 09:52:25 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 09:52:25 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:52:26 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 09:52:26 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:52:26 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 09:52:26 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 09:52:49 INFO  DesktopAutomationSteps:30 - Initialization Of Windows driver and calculator App is opened
+2020-07-24 09:52:51 INFO  Win7Calculator:35 - Clicks on the Button : num6Button
+2020-07-24 09:52:51 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:52:52 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:52:53 INFO  Win7Calculator:35 - Clicks on the Button : num7Button
+2020-07-24 09:52:53 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 09:52:53 INFO  Win7Calculator:48 - The input number entered on Calci : 65575
+2020-07-24 09:52:53 INFO  DesktopAutomationSteps:37 - Input Number : 65575
+2020-07-24 09:52:54 INFO  Win7Calculator:35 - Clicks on the Button : squareRootButton
+2020-07-24 09:52:54 INFO  DesktopAutomationSteps:43 - Button pressed : squareRootButton
+2020-07-24 09:53:02 INFO  Win7Calculator:58 - fetching the currently displayed number from calculator screen : null
+2020-07-24 10:01:31 INFO  Win7Calculator:58 - fetching the currently displayed number from calculator screen : null
+2020-07-24 10:01:31 INFO  BrowserAutomationSteps:30 - Quitting Winium Driver
+2020-07-24 10:01:42 INFO  BaseUtil:38 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)
+2020-07-24 10:01:42 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 10:01:44 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 10:01:44 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> name: q]
+2020-07-24 10:01:44 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> name: q]
+2020-07-24 10:01:44 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> name: q]
+2020-07-24 10:01:44 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> name: q]
+2020-07-24 10:01:46 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> name: q]
+2020-07-24 10:01:46 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 10:01:46 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 10:01:46 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> id: hdtb-tls]
+2020-07-24 10:01:46 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (d803c589e1227f556e147e38db880925)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 10:01:46 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 10:01:46 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 10:01:47 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 10:01:47 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 10:01:47 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 10:01:47 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 10:01:49 INFO  BrowserAutomationSteps:30 - Quitting Winium Driver
+2020-07-24 11:29:17 INFO  BaseUtil:48 - WebDriver initialization is SuccessfulChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)
+2020-07-24 11:29:17 INFO  BrowserAutomationSteps:26 - Chrome Driver is opened
+2020-07-24 11:29:22 INFO  BrowserAutomationSteps:32 - Navigated to google website
+2020-07-24 11:29:22 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> name: q]
+2020-07-24 11:29:22 INFO  GoogleSearchPage:28 - Checking the element is Present : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> name: q]
+2020-07-24 11:29:22 INFO  BaseSelenium:46 - Clearing the field : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> name: q]
+2020-07-24 11:29:22 INFO  BaseSelenium:56 - Text : Clarivate Analytics is entered in the field : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> name: q]
+2020-07-24 11:29:27 INFO  BaseSelenium:56 - Text :  is entered in the field : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> name: q]
+2020-07-24 11:29:27 INFO  GoogleSearchPage:38 - Text is submitted and searched for : Clarivate Analytics
+2020-07-24 11:29:27 INFO  BrowserAutomationSteps:39 - Searching for the Keyword : Clarivate Analytics
+2020-07-24 11:29:27 INFO  BaseSelenium:35 - Checking element is displayed : [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> id: hdtb-tls]
+2020-07-24 12:10:46 INFO  SearchResultsPage:40 - Returns the first Search result webelement [[ChromeDriver: chrome on XP (1d49860a1c5a1c2c2922ffcb22da6316)] -> xpath: //div[@id='rso']/div[1]//div[@class='r']/a]
+2020-07-24 12:10:46 INFO  BrowserAutomationSteps:46 - Verified the first Search Result : https://clarivate.com/
+2020-07-24 12:10:46 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 12:10:47 INFO  BrowserAutomationSteps:16 - Quiting Browser Driver
+2020-07-24 12:10:47 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 12:10:47 INFO  BrowserAutomationSteps:23 - Executing the Winium.Desktop.Driver.exe file
+2020-07-24 12:10:47 INFO  BaseUtil:28 - Property file is loaded
+2020-07-24 12:10:52 INFO  DesktopAutomationSteps:30 - Initialization Of Windows driver and calculator App is opened
+2020-07-24 12:10:54 INFO  Win7Calculator:35 - Clicks on the Button : num6Button
+2020-07-24 12:10:55 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 12:10:56 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 12:10:57 INFO  Win7Calculator:35 - Clicks on the Button : num7Button
+2020-07-24 12:10:59 INFO  Win7Calculator:35 - Clicks on the Button : num5Button
+2020-07-24 12:10:59 INFO  Win7Calculator:48 - The input number entered on Calci : 65575
+2020-07-24 12:10:59 INFO  DesktopAutomationSteps:37 - Input Number : 65575
+2020-07-24 12:11:00 INFO  Win7Calculator:35 - Clicks on the Button : squareRootButton
+2020-07-24 12:11:00 INFO  DesktopAutomationSteps:43 - Button pressed : squareRootButton
+2020-07-24 12:11:05 INFO  Win7Calculator:58 - fetching the currently displayed number from calculator screen : null
+2020-07-24 12:11:14 INFO  BrowserAutomationSteps:29 - Quitting Winium Driver
